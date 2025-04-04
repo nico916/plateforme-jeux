@@ -1,0 +1,12 @@
+# Fichiers Java compilés
+*.class
+
+# Fichiers VS Code
+.vscode/
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.log
